@@ -1,1 +1,1 @@
-I'm on <a rel="me" href="https://piaille.fr/@yoshilelama">Mastodon</a>
+I'm on <a href="https://piaille.fr/@yoshilelama" rel="me">Mastodon</a>
